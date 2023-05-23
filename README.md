@@ -1,3 +1,34 @@
+Here are some guide questions that will help you out:
+
+What was your motivation?
+Why did you build this project?
+What problem does it solve?
+What did you learn?
+What makes your project stand out?
+If your project has a lot of features, consider adding a "Features" section and listing them here.
+
+
+
+# Project Title
+To bug fix the Horiseon website to follow accessibility standards
+so it is optimized for search engines
+
+# Project Description
+The application uses HTML and CSS to build out a webpage with a header navigation bar with links to other contect, main content section and aside information.  The HTML codebase need to be updated to use semantic html elements where possible.  The CSS style sheet had a number of class elements that needed to be conolidated to clean the code base for easier maintenence.
+
+# Table of contents
+
+# How to install and run the project
+
+# How to use the project
+
+# include credits
+
+# add a license
+
+
+
+
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
